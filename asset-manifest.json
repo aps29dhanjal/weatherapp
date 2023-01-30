@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/weatherapp/static/css/main.d8d67d3b.css",
+    "main.js": "/weatherapp/static/js/main.a5711ce5.js",
+    "static/media/fluentweatherSunny.svg": "/weatherapp/static/media/fluentweatherSunny.e1cb7b2100b3985f33b74f5ee7113681.svg",
+    "static/media/carbonmixedRainHai1.svg": "/weatherapp/static/media/carbonmixedRainHai1.a49e7eef7583d5011c6ce6f48bece0d3.svg",
+    "static/media/carbonmixedRainHai.svg": "/weatherapp/static/media/carbonmixedRainHai.f1e82ba851d4445e0a03f5b8323741b6.svg",
+    "static/media/materialSymbolsweat.svg": "/weatherapp/static/media/materialSymbolsweat.f34a36d7b093715bad676f51dd5369bf.svg",
+    "static/media/mdiweatherWindy.svg": "/weatherapp/static/media/mdiweatherWindy.f539ba78c143e0b8b89abb5ce5791a20.svg",
+    "static/media/simpleLineIconscal.svg": "/weatherapp/static/media/simpleLineIconscal.b350295e19a91734df6af192417ef368.svg",
+    "static/media/materialSymbolsshar.svg": "/weatherapp/static/media/materialSymbolsshar.54572c3c7efacf240b86523bdaa74412.svg",
+    "static/media/mdirefreshCircle.svg": "/weatherapp/static/media/mdirefreshCircle.1c1ee8eb07209c01da08f89af0fd13c1.svg",
+    "static/media/mdiweatherSunWirel.svg": "/weatherapp/static/media/mdiweatherSunWirel.97f7ebf93add82e747ded7ca3ac15b02.svg",
+    "index.html": "/weatherapp/index.html",
+    "main.d8d67d3b.css.map": "/weatherapp/static/css/main.d8d67d3b.css.map",
+    "main.a5711ce5.js.map": "/weatherapp/static/js/main.a5711ce5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d8d67d3b.css",
+    "static/js/main.a5711ce5.js"
+  ]
+}

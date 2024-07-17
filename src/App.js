@@ -16,7 +16,7 @@ function App() {
   const[city,setCity]= useState();
   const [location ,setLocation]=useState('delhi');
    useEffect(()=>{
-    const url=`https://api.openweathermap.org/data/2.5/forecast?q=${location}&appid=f008528010beea33eef7a5d0a30b5a0ef`
+    const url=`https://api.openweathermap.org/data/2.5/forecast?q=${location}&appid=5afe498891c71d016098762e8e235363`
     const searchLocation = async()=>{
       const response =await fetch(url);
       const data= await response.json();
